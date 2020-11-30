@@ -1,0 +1,19 @@
+{
+    "name" : "lii/weather",
+    "description": "A weather module for the ramverk1 course.",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "Lii\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
