@@ -7,14 +7,12 @@ This repository is a module build for the [Anax](https://github.com/canax) frame
 This repository is available as a package on [Packagist](https://packagist.org/packages/lii/weather).
 
 To install it you need to have Anax installed already. In the Anax root directory run the following commands:
-
+```
 rsync -av vendor/lii/weather/config/ ./config/
-
 rsync -av vendor/lii/weather/src/ ./src/
-
 rsync -av vendor/lii/weather/test/ ./test/
-
 rsync -av vendor/lii/weather/view/ ./view/
+```
 
 This will copy the needed files into the Anax framework.
 
