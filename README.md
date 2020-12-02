@@ -3,6 +3,9 @@
 Travis
 [![Build Status](https://travis-ci.org/slistrom/bth-ram-module.svg?branch=main)](https://travis-ci.org/slistrom/bth-ram-module)
 
+Circle CI
+[![CircleCI](https://circleci.com/gh/slistrom/bth-ram-module.svg?style=svg)](https://circleci.com/gh/slistrom/bth-ram-module)
+
 Scrutinizer
 [![Build Status](https://scrutinizer-ci.com/g/slistrom/bth-ram-module/badges/build.png?b=main)](https://scrutinizer-ci.com/g/slistrom/bth-ram-module/build-status/main)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/slistrom/bth-ram-module/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/slistrom/bth-ram-module/?branch=main)
